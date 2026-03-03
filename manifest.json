@@ -1,0 +1,16 @@
+{
+  "name": "Little Tasks",
+  "short_name": "Tasks",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#FFF5F7",
+  "theme_color": "#FFB7C5",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'%3E%3Crect fill='%23FFB7C5' width='192' height='192' rx='40'/%3E%3Ctext x='96' y='120' font-size='80' text-anchor='middle'%3E✨%3C/text%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}
